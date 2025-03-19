@@ -16,6 +16,7 @@ A web application that allows users to input a **YouTube video URL** and receive
 ### [Telegram Trading Bot](https://github.com/thetruesammyjay/telegram-trading-bot)
 An automated trading bot that listens to **entry signals in a Telegram channel**, extracts contract addresses (CAs), and executes trades on platforms like **Trojan** or **BULLX Bot**.
 
+### [Rest of my Projects](https://github.com/thetruesammyjay)
 ---
 
 ## 🛠️ Tech Stack
