@@ -1,4 +1,4 @@
-# Hey there! I'm Sammy Jay 👋
+# Hey there! I'm Ifiezibe Justin Samuel 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI+%26+Blockchain+Developer;Full-Stack+Engineer;DeFi+Protocol+Builder;ML+%26+Data+Enthusiast" alt="Typing SVG" />
