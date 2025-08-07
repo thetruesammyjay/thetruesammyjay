@@ -8,7 +8,7 @@
 
 I'm a passionate developer specializing in **AI/ML**, **blockchain technology**, and **quantitative finance**. I build innovative tools that bridge traditional finance, cryptocurrency markets, and cutting-edge AI applications. My work focuses on creating practical, real-world solutions that solve complex problems in fintech, DeFi, and automated trading systems.
 
-- 🔭 Currently working on **[AI Trading Assistant](https://github.com/thetruesammyjay/ai-trading-assistant)** and **voice-controlled AI applications**
+- 🔭 Currently working on **[AI Trading Assistant](https://github.com/thetruesammyjay/avalanche-ai-trading-assistant)** and **voice-controlled AI applications**
 - 🌱 Exploring **quantitative finance models** (ARIMA, GARCH) and **advanced ML architectures**
 - 💡 Passionate about **automated trading systems** and **cross-chain DeFi protocols**
 - 🎯 Building tools that democratize access to **financial data** and **AI-powered insights**
